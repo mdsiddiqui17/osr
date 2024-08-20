@@ -1,0 +1,20 @@
+.header-navbar {
+    background-color: #343a40; /* Dark background */
+  }
+  
+  .header-navbar .navbar-brand {
+    color: #fff;
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+  
+  .header-navbar .nav-link {
+    color: #fff;
+    margin-right: 1rem;
+  }
+  
+  .header-navbar .nav-link:hover {
+    color: #ff6f61;
+    text-decoration: underline;
+  }
+  
